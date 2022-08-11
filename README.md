@@ -1,1 +1,4 @@
-sample project for git practice
+# sample project for git practice
+
+### description
+  we use this project to practice rebase workflow
